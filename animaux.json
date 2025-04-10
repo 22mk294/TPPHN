@@ -1,0 +1,36 @@
+[
+  {
+    "type": "personne",
+    "QI": 70,
+    "bruit": "pleurer",
+    "pellage": "brun",
+    "nom": "Alice",
+    "age": 25
+  },
+  {
+    "type": "chien",
+    "race": "berger",
+    "pellage": "noir",
+    "nom": "Rex",
+    "age": 5
+  },
+  {
+    "type": "perroquet",
+    "parler": "bonjour",
+    "envergureDesAilles": 30.0,
+    "nom": "Polly",
+    "age": 2
+  },
+  {
+    "type": "chauve_souris",
+    "pellage": "45cm",
+    "nom": "Batty",
+    "age": 3
+  },
+  {
+    "type": "pigeon",
+    "envergureDesAilles": 12.0,
+    "nom": "Plume",
+    "age": 1
+  }
+]
